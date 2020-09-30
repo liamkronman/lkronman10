@@ -1,3 +1,8 @@
+# Liam Kronman
+# SoftDev
+# K05 -- Teamwork, but Better This Time (KREWES team selector)
+# 2020-09-29
+
 import random
 
 KREWES = {
