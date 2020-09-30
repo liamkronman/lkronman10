@@ -11,9 +11,9 @@ KREWES = {
     'endymion': ['JASON', 'DEAN', 'MADDY', 'SAQIF', 'CINDY', 'YI LING', 'RUOSHUI', 'FB', 'MATTHEW', 'MAY', 'ERIN', 'MEIRU']
 }
 
-team = input("Please enter a team you would like to target: ")
+team = input("Please enter a team you would like to target: ").lower()
 
-while team not in KREWES.keys():
+while team not in KREWES:
 	team = input("Please re-enter a valid team name: ")
 
 print(random.choice(KREWES[team]))
