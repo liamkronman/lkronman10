@@ -1,6 +1,6 @@
 # Liam Kronman, William Li (Team WinLose)
 # SoftDev
-# K07 - Stl/O: Divine your Destiny (Occupation getter)
+# K07 - Stl/O: Divine your Destiny (Occupation getter through subtraction of percentages from randomly selected number)
 # 2020-10-01
 
 import random, csv
