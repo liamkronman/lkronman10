@@ -1,4 +1,4 @@
-# Liam Kronman, William Li
+# Liam Kronman, William Li (Team WinLose)
 # SoftDev
 # K06 - Learnination Through Amalgamation (KREWES team selector updated)
 # 2020-10-01
