@@ -1,7 +1,7 @@
-Team Tissue (Maddy Andersen, Liam Kronman, Amelia Chin)
-SoftDev
-K11 - Some Things Never Change (experimenting with using flask to serve static files and making our own)
-2020-10-13
+# Team Tissue (Maddy Andersen, Liam Kronman, Amelia Chin)
+# SoftDev
+# K11 - Some Things Never Change (experimenting with using flask to serve static files and making our own)
+# 2020-10-13
 
 # DEMO 
 # basics of /static folder
