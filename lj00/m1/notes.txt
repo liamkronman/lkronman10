@@ -4,9 +4,9 @@ LJ00 -- Le Voyage de Learnination avec Mongo, Première Phase
 2020-10-28
 
 database - structure way to store data
-nosql database - not in rolls and columns
+nosql database - not in rows and columns
 mongodb databse stores data as documents
-those documents are stored as collections
+documents are stored in collections of documents
 a document in this case is is a set of field value pairs, kinda like dictionaries
 atlas is a fully managed data base with mongodb at its core
 clusters are servers that store data 
