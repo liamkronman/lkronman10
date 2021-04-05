@@ -1,0 +1,10 @@
+Team Monday - Ishita Gupta, Liam Kronman
+SoftDev
+K19 -- A RESTful Journey Skyward/Use urllib to request and recieve data from a restful api
+2021-4-5
+
+- We used urllib.request.urlopen to send an HTTP request to the NASA RESTful API.
+    - Our HTTP request method worked as anticipated: the text recieved was the same as the text on the api website
+- We had trouble parsing the data into a python dictionary, as it was returning bytes.
+- We then used the “json” library to convert data from bytes to python dictionary.
+- We finally parsed key_nasa.txt and concatatenated to the rest of url line.
