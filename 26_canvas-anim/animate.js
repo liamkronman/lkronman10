@@ -45,7 +45,7 @@ var drawDot = () => {
 
 
   
-  clear(ctx);
+  clear();
   ctx.beginPath();
   ctx.arc(c.width / 2, c.height / 2, circlesize, 0, 2 * Math.PI);
   ctx.stroke();
